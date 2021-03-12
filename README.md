@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-#Please note, if you do not have yarn installed, you can also use npm in place of yarn
+###Please note
+If you do not have yarn installed, you can also use npm in place of yarn
 
 ### `yarn install`
 Installs all pakages according to the yarn.lock or pakage.json file. Run this first.
