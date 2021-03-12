@@ -1,5 +1,6 @@
 {
   "name": "website",
+  "homepage": "JokeBot",
   "version": "0.1.0",
   "private": true,
   "crcf": [
