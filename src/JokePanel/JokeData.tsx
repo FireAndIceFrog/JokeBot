@@ -8,7 +8,8 @@ import {JokeContext} from '../reactStore'
 class APIException extends Error{}
 
 async function loadJoke (URI : string, reload: any, callback: any)  {
-    try{
+    try
+    {
         if(reload)
         {
             const response = await fetch(URI)

@@ -5,7 +5,7 @@ export interface IState
 }
 
 const state : IState = {
-    APIPath: ""
+    APIPath: "localhost"
 }
 
 const JokeContext = React.createContext([state, (x: IState) => {}]);
