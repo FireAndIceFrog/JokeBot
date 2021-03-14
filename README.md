@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Getting Started with Your Joke Bot
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is hosted using Github pages: https://fireandicefrog.github.io/JokeBot/
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### Please note
+If you do not have yarn installed, you can also use npm in place of yarn
+
+### `yarn install`
+Installs all pakages according to the yarn.lock or pakage.json file. Run this first.
 
 ### `yarn start`
 
